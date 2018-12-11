@@ -1,4 +1,4 @@
-Git is a NON-Free and open source 
+Git is a NON Free and open source 
 distributed version control system 
 designed to handle everything from 
 small to very large projects with 
